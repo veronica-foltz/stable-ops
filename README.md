@@ -127,18 +127,6 @@ Protected routes require authentication and role-based permissions.
 
 ---
 
-### Frontend
-
-```bash
-cd frontend
-
-npm install
-
-npm run dev
-```
-
----
-
 ## Future Improvements
 
 - Horse profile photos
