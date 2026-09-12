@@ -4,6 +4,8 @@ A full-stack stable management application built with **FastAPI**, **React**, an
 
 ## Live Demo
 
+**AWS:** https://d382jnf7k7igi0.cloudfront.net/horses
+
 **Frontend:** https://stable-ops-api.vercel.app
 
 **Backend API:** https://stable-ops-api.onrender.com
